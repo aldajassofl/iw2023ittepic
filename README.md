@@ -1,3 +1,4 @@
+git init
 #Clonar repositorio
 git clone https://github.com/aldajassofl/iw2023ittepic.git
 
@@ -12,4 +13,10 @@ git add README.md
 
 #Ver el status del branch
 #Y verificar que este listo para hacer commit
+
+#Realizar commit
+#a es para todos los archivos que tengan cambios, añadirlos al commit
+#m es para un mensaje
+git commit -am "Initial commit"
+
 
