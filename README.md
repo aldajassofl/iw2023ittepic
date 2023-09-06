@@ -1,5 +1,5 @@
 #Crear repositorio en Github llamado
-(![Imagen](image.png))
+(![Imagen](privada/image.png))
 
 #iniciar el repositorio
 git init
