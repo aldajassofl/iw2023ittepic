@@ -33,6 +33,8 @@ git commit -am "Initial commit"
 
 #Subir los cambios al repositorio remoto
 git push
+
+#Archivos ignorados
 #Crear en el repositorio un fichero llamado privado.txt
 
 ![1](https://github.com/aldajassofl/iw2023ittepic/assets/143014169/2da68163-fb41-4910-a773-113ab33a24b2)
@@ -44,3 +46,17 @@ git push
 #Realizar los cambios oportunos para que tanto el archivo como la carpeta sean ignorados por git
 
 ![3](https://github.com/aldajassofl/iw2023ittepic/assets/143014169/bca18181-0523-4736-9be1-9ee63acfe21c)
+
+#Añadir archivo
+#Añadir archivo 1.txt al repositorio local
+
+![1](https://github.com/aldajassofl/iw2023ittepic/assets/143014169/65b65800-cb9d-4156-96da-f08aaa781aa0)
+
+#Creación de Tag
+#Crear un tag v0.1
+
+![1](https://github.com/aldajassofl/iw2023ittepic/assets/143014169/0a9ff5f7-b220-4b37-89bc-bcb7dd89a9d4)
+![2](https://github.com/aldajassofl/iw2023ittepic/assets/143014169/b6e5be25-f9f4-4cf6-9d90-b940245de9f9)
+
+
+
