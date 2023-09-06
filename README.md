@@ -56,7 +56,26 @@ git push
 #Crear un tag v0.1
 
 ![1](https://github.com/aldajassofl/iw2023ittepic/assets/143014169/0a9ff5f7-b220-4b37-89bc-bcb7dd89a9d4)
+
 ![2](https://github.com/aldajassofl/iw2023ittepic/assets/143014169/b6e5be25-f9f4-4cf6-9d90-b940245de9f9)
+
+#Subir cambios
+#Subir los cambios al repositorio remoto
+
+![1](https://github.com/aldajassofl/iw2023ittepic/assets/143014169/c9b42501-b897-490d-be8a-ae694000fcc6)
+
+#Cuenta de Github
+#Poner una foto en tu perfil de Github
+
+![foto](https://github.com/aldajassofl/iw2023ittepic/assets/143014169/3cd3cf4b-4ca1-4125-97da-777c432d52d9)
+
+#Poner doble factor de autenticación en tu cuenta de GitHub
+
+![two](https://github.com/aldajassofl/iw2023ittepic/assets/143014169/1ec8bdb8-c0ca-45e0-95d0-cb8c8f349f3b)
+
+#Añadir la clave pública que corresponde a tu computadora
+
+![key](https://github.com/aldajassofl/iw2023ittepic/assets/143014169/780f8b4c-f3a1-40e5-962a-bd0a86506a99)
 
 
 
