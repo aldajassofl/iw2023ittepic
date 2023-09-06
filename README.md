@@ -15,7 +15,7 @@ touch README.md
 
 #anadirlo al commit
 git add README.md
-
+![Alt text](imagen.png)
 #Ver el status del branch
 #Y verificar que este listo para hacer commit
 
