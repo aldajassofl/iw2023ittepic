@@ -86,9 +86,9 @@ git push
 
 #Crear una tabla de este estilo en el archivo README.md con la información de al menos 5 de tus compañeros de clase
 
-Nombre | Enlace
-________________________
-Camarena Flores Fernando | [enlace](https://github.com/RanitaDeMay)
-Esperanza Machuca Sandra Lizbeth | [enlace](https://github.com/saliesperanzama)
+| Nombre | Enlace | 
+| ------ | ---- |
+| Camarena Flores Fernando | [enlace](https://github.com/RanitaDeMay) |
+| Esperanza Machuca Sandra Lizbeth | [enlace](https://github.com/saliesperanzama) |
 
 
