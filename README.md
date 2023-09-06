@@ -77,5 +77,10 @@ git push
 
 ![key](https://github.com/aldajassofl/iw2023ittepic/assets/143014169/780f8b4c-f3a1-40e5-962a-bd0a86506a99)
 
+#Uso social de GitHub
+#Preguntar los nombres de usuario de GitHub de tus compañeros de clase, búscalos, y síguelos
+#Seguir los repositorios iw2023ittepic del resto de tus compañeros
+#Añadir una estrella a los repositorios iw2023ittepic del resto de tus compañeros
+
 
 
