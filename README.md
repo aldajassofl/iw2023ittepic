@@ -91,7 +91,7 @@ git push
 | Camarena Flores Fernando | [enlace](https://github.com/RanitaDeMay) |
 | Esperanza Machuca Sandra Lizbeth | [enlace](https://github.com/saliesperanzama) |
 | Salas Pulido Mayté Guadalupe | [enlace](https://github.com/msalas18) |
-| Graxiola Quiroz Juan Antonio | [enlace](https://github.com/elVeector) |
-| Vazquez Carreón Víctor Manuel | [enlace](https://github.com/Railgun124) |
+| Vazquez Carreón Víctor Manuel | [enlace](https://github.com/elVeector) |
+| Graxiola Quiroz Juan Antonio | [enlace](https://github.com/Railgun124) |
 
 
