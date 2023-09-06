@@ -82,5 +82,12 @@ git push
 #Seguir los repositorios iw2023ittepic del resto de tus compañeros
 #Añadir una estrella a los repositorios iw2023ittepic del resto de tus compañeros
 
+![estrellas](https://github.com/aldajassofl/iw2023ittepic/assets/143014169/e05c56b0-f7af-42e0-85c2-d4de9c438604)
+
+#Crear una tabla de este estilo en el archivo README.md con la información de al menos 5 de tus compañeros de clase
+| Nombre   |  Enlace   |
+___________|____________
+|Camarena Flores Fernando | [enlace](https://github.com/RanitaDeMay)|
+|Esperanza Machuca Sandra Lizbeth | [enlace](https://github.com/saliesperanzama)|
 
 
